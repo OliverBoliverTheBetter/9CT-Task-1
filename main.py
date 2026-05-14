@@ -16,29 +16,29 @@ def TheMain():
             print("\nStupid dumb dumb stupid fart face idiot\n")
         
         if thechoicening == 1:
-            print("All the data coming up!") #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
+            print("All the data coming up!\n") #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
         
         elif thechoicening == 2:
-            print('Visualised data coming up!') #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
+            print('Visualised data coming up!\n') #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
         
         elif thechoicening == 3:
-            print('Find my data') #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
+            print('Find my data\n') #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
 
         elif thechoicening == 4:
-            print("Whats wrong with my data :(") #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
+            print("Whats wrong with my data :(\n") #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
 
         elif thechoicening == 5:
-            print('Do you really want me to die?')
+            print('Do you really want me to die?\n')
             break
 
         else:
             destiny = input("Dont you feel stupid? dont you feel a little silly? why do you do this to yourself? your typing so you can watch everyone around you die. Think, stephen, think! What will you have after 500 lines?")
             
             if destiny == "I'll still have you, tech free agenda":
-                print("Tech free agenda flies of into the sunset, leaving you all alone wiht your thoughts and your laptop")
+                print("\nTech free agenda flies of into the sunset, leaving you all alone wiht your thoughts and your laptop")
             
             else:
-                print('Die')
+                print('\nDie')
         
         
 
