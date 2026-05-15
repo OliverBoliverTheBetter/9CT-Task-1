@@ -1,7 +1,8 @@
 #This is THE code of all time
 #Menu options: view all my data, visualise the data, search for the data, edit the data, exit the data
 #imports
-
+import time as tcorp
+from data_module import *
 #functions
 def TheMain():
     
@@ -17,7 +18,8 @@ def TheMain():
         
         if thechoicening == 1:
             print("All the data coming up!\n") #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
-        
+            tcorp.sleep(2)
+            DisplayData()
         elif thechoicening == 2:
             print('Visualised data coming up!\n') #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
         
