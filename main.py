@@ -8,8 +8,9 @@ def TheMain():
     
     while True:
         print("yo wassup this is the DATA you gotta believe me\n")
+        tcorp.sleep(1)
         print("The choices:\n1. View all my data\n2. Visualise all my data\n3. Search for the data\n4. Edit my data\n5. Exit this lovely Juvely program.")
-        
+        tcorp.sleep(3)
         try:
             thechoicening = int(input("\nYou  must now decide your fate.\n"))
         
@@ -17,7 +18,7 @@ def TheMain():
             print("\nStupid dumb dumb stupid fart face idiot\n")
         
         if thechoicening == 1:
-            print("All the data coming up!\n") #PLEASE FOR THE LOVE OF GOD FUTURE ME HELP
+            print("All the data coming up!\n") #Future me has helped :thumbsup:
             tcorp.sleep(2)
             DisplayData()
         elif thechoicening == 2:
@@ -32,19 +33,10 @@ def TheMain():
         elif thechoicening == 5:
             print('Do you really want me to die?\n')
             break
-
+        
         else:
-            destiny = input("Dont you feel stupid? dont you feel a little silly? why do you do this to yourself? your typing so you can watch everyone around you die. Think, stephen, think! What will you have after 500 lines?")
-            
-            if destiny == "I'll still have you, tech free agenda":
-                print("\nTech free agenda flies of into the sunset, leaving you all alone wiht your thoughts and your laptop")
-            
-            else:
-                print('\nDie')
+            print("Your so mean why didnt you choose ")
         
-        
-
-
 
 
 #The happening area

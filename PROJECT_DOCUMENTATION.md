@@ -1,5 +1,9 @@
-Prior to the mayeth fourteenth, i had made not only my repository for this fateful task, but also the forms needed to harvest my data for the Assesment Task
-May the fourteenth:
-I have reaped what i sowed, the data fields hath been harvested and now are in the GitHub Repository. The main.py has started its growth. NSWEduChat shant survive.
-May the fifteenth:
-i have started on the data modules, making my code for the functions. Display data is done.
+# THE VERY FIRST ASSESMENT TASK
+## IDENTYFING AND DEFINING
+### THREE TIERED MINDMAP
+![My local photo](trifoldmap.png)
+### DEFINE MY PURPOSE
+My purpose is to find out if the Great Tech Free Break actually worked.
+### REQUIREMENTS OUTLINE
+My program should
+Functionally: Allow the user to view my data, visualise my data in a meaningful graph, allow the user to exit the program, have fail safes for when the user 
